@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.pong_sergi_curtu"
+        id          = "cat.numancia.pong_jordi_gonzález"
         versionCode = "1" 
         version     = "0.0.01" >
 	
@@ -10,14 +10,14 @@
 
 	
 
-   <name>Pong SCB</name>
+   <name>Pong JGC</name>
 
    <description>
-       Un pong fet per alumnes de 4t del Numància
+       PONG JGC
     </description>
 
     <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+       Jordi González Caballero
     </author>
 
 	<content src="index.html"/>
